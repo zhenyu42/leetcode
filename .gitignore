@@ -1,0 +1,14 @@
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+target/
+out/
+
+# macOS
+.DS_Store
+
+# log
+logs
+
